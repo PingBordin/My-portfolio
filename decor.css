@@ -1,0 +1,75 @@
+    /* <!-- Change text color --> */
+    h1{
+        text-align: center;
+        background-color: rgb(242, 174, 48);
+        color: rgb(239, 235, 35);
+        font-size: 35pt;
+    }
+
+    h3{
+        color: black;
+        font-size: 20pt;
+}
+
+    h4{
+        text-align: center;
+        color: rgb(176, 98, 54);
+        font-size: 25pt;
+    }
+
+    h5{
+        text-align: center;
+        color: rgb(176, 98, 54);
+        font-size: 25pt;
+    }
+
+    h6{
+        text-align: center;
+        color: rgb(176, 98, 54);
+        font-size: 25pt;
+    }
+    
+        /* <!-- My profile --> */
+    #MyPic{
+        margin-left: 635px;
+        text-align: center;
+        width: 200px;
+    }
+
+    #Work5{
+        margin-left: 150px;
+        text-align: center;
+        width: 1200px;
+    }
+
+    #Work7{
+        margin-left: 250px;
+        text-align: center;
+        width: 1000px;
+    }
+
+    #Facebook{
+        margin-left: 675px;
+        align-items: center;
+        width: 100px;
+    }
+    #proc7{
+        margin-left: 575px;
+        text-align: center;
+        width: 300px;
+    }
+    #proc8{
+        margin-left: 575px;
+        text-align: center;
+        width: 300px;
+    }
+    
+    body{
+        background-color: lightgoldenrodyellow;
+    }
+
+    p{
+        text-align: center;
+        font-size: 25px;
+        color: blue;
+    }
